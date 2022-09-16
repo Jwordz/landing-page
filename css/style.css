@@ -165,3 +165,44 @@ img {
   text-align: right;
   font-size: 24px;
 }
+
+* --- Below is for the bottom-div --- */ .bottom-div {
+  height: 25%;
+  width: 100%;
+  background-color: #fefae0;
+  margin: auto;
+}
+
+.flex-container4 {
+  padding: 5% 15%;
+}
+
+.border-box {
+  border-radius: 10px;
+  background-color: #606c38;
+  color: #fefae0;
+  justify-content: space-between;
+}
+
+.blue-text {
+  text-align: left;
+  padding: 5px 0 5px 30px;
+  margin-right: 40%;
+}
+
+h5 {
+  font-size: 18px;
+}
+
+#signup2 {
+  height: 30px;
+  width: 90px;
+  color: #fefae0;
+  background-color: #606c38;
+  border: solid 2px #fefae0;
+  border-radius: 5px;
+  float: right;
+  position: relative;
+  left: 40%;
+  bottom: 30px;
+}
