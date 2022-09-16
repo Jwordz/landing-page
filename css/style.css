@@ -92,7 +92,6 @@ li a {
   border-radius: 0;
   border: none;
   margin-left: 50%;
-  display: inline-block;
   float: right;
   position: absolute;
   margin-top: 110px;
@@ -106,4 +105,37 @@ li a {
   width: 90px;
   border-radius: 5px;
   margin-bottom: 50px;
+}
+
+/* --- Below is for the mid1-div --- */
+
+.mid1-div {
+  height: 25%;
+  width: 100%;
+  background-color: #fefae0;
+  margin: auto;
+}
+
+.flex-container2 {
+  gap: 22px;
+  display: flex;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+h2 {
+  text-align: center;
+  font-size: 36px;
+  color: black;
+}
+
+img {
+  height: 100px;
+  width: 100px;
+  border: solid 2px #606c38;
+  border-radius: 10px;
+}
+
+.info-text {
+  color: #5a5858;
 }
