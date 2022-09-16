@@ -206,3 +206,18 @@ h5 {
   left: 40%;
   bottom: 30px;
 }
+
+/* --- Below is for the footer --- */
+
+footer {
+  color: #fefae0;
+  background-color: #283618;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 52px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
